@@ -1,0 +1,226 @@
+{
+  "categorias": [
+    {
+      "titulo": "Reggae",
+      "link": "https://music.youtube.com/watch?v=naMGx5jcTNI&list=LM",
+      "cor": "#F4FA58",
+      "link_extra": {},
+      "videos": [
+        {
+          "titulo": "PLAYLIST YOUTUBE MUSIC #musicislife",
+          "url": "https://music.youtube.com/watch?v=naMGx5jcTNI&list=LM"
+        },
+        {
+          "titulo": "Quero ser Feliz também",
+          "url": "https://www.youtube.com/watch?v=i1Nm-MJ313w"
+        },
+        {
+          "titulo": "Quero ser Feliz também",
+          "url": "https://www.youtube.com/watch?v=i1Nm-MJ313w"
+        },
+        {
+          "titulo": "Quero ser Feliz também",
+          "url": "https://www.youtube.com/watch?v=i1Nm-MJ313w"
+        },
+        {
+          "titulo": "Ouvi dizer",
+          "url": "https://www.youtube.com/watch?v=vaXCSYva2FM"
+        },
+        {
+          "titulo": "Sorri, Sou Rei",
+          "url": "https://www.youtube.com/watch?v=tRmtL8yxcSA"
+        },
+        {
+          "titulo": "Estar Com Você ",
+          "url": "https://www.youtube.com/watch?v=t0iW__yQHBM"
+        },
+        {
+          "titulo": "Caminho da luz",
+          "url": "https://www.youtube.com/watch?v=_u8DCZ-U0dY"
+        },
+        {
+          "titulo": "True Love",
+          "url": "https://www.youtube.com/watch?v=qNHMw6oWXAw&list=PLxlejSoPOkrIaPgYSoqSjrT7BCFcFFFr1"
+        },
+        {
+          "titulo": "Rest of My life",
+          "url": "https://www.youtube.com/watch?v=X572Mp_r46E&list=PLxlejSoPOkrIaPgYSoqSjrT7BCFcFFFr1&index=3"
+        }
+      ]
+    },
+    {
+      "titulo": "Hip-Hop ",
+      "cor": "#00C86F",
+      "link_extra": {},
+      "videos": [
+        {
+          "titulo": "Mundo de Ilusões/ Bom dia",
+          "url": "https://www.youtube.com/watch?v=4UauTqppXRc&list=PLhaY0uift1gDvyuIxUVYOBhjgSRjGd5Pb"
+        },
+        {
+          "titulo": "Poesia Acústica - Sobre Nós",
+          "url": "https://www.youtube.com/watch?v=bD6ifecX6rs"
+        },
+        {
+          "titulo": "Vagabundo Também Ama",
+          "url": "https://www.youtube.com/watch?v=eBaZTtP_qek"
+        },
+        {
+          "titulo": "Leis Próprias ",
+          "url": "https://www.youtube.com/watch?v=EfEgo9LO4bU&list=PLhaY0uift1gDvyuIxUVYOBhjgSRjGd5Pb&index=17"
+        },
+        {
+          "titulo": "Capricorniana",
+          "url": "https://www.youtube.com/watch?v=DjNqxTODmuc&list=PLE5rzp23Nm77rbz7i3KLxNfkPI4kaWoPP&index=3"
+        },
+        {
+          "titulo": "Meu Jardim / Obrigado Vida",
+          "url": "https://www.youtube.com/watch?v=ivrTrbZE1Ew"
+        },
+        {
+          "titulo": "Linda Louca e Mimada",
+          "url": "https://www.youtube.com/watch?v=7OTSQ7plENk"
+        }
+      ]
+    },
+    {
+      "titulo": "Rock ",
+      "cor": "#9cd33b",
+      "link_extra": {},
+      "videos": [
+        {
+          "titulo": "Good Times Bad times",
+          "url": "https://www.youtube.com/watch?v=TA9Rec1qAFQ&list=PLWRhxvQASiJ5OO3NTHiCIB5izkkEf9j_t"
+        },
+        {
+          "titulo": "Californication?",
+          "url": "https://www.youtube.com/watch?v=YlUKcNNmywk&list=PLsK0gCOg4x1ec75vdcKTF2YHX7lZGvizb"
+        },
+        {
+          "titulo": "Black",
+          "url": "https://www.youtube.com/watch?v=4q9UafsiQ6k"
+        },
+        {
+          "titulo": "Born On the Bayou",
+          "url": "https://www.youtube.com/watch?v=wIjUY3pjN8E"
+        },
+        {
+          "titulo": "Have You Ever Seen The Rain",
+          "url": "https://www.youtube.com/watch?v=g4flAZEgtjs&list=PLf6-wYiizn9MokTv7naPkULw-skStjmZt"
+        },
+        {
+          "titulo": "Basket Case",
+          "url": "https://www.youtube.com/watch?v=NUTGr5t3MoY"
+        },
+        {
+          "titulo": "Oasis - Wonderwall",
+          "url": "https://www.youtube.com/watch?v=6hzrDeceEKc&list=PLMpM3Z0118S6eV5ZBJpwDT-KCNBwm99c8"
+        }
+      ]
+    },
+    {
+      "titulo": "Rap",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "That's My Way",
+          "url": "https://www.youtube.com/watch?v=ysfm_adxRrI"
+        },
+        {
+          "titulo": "Fiz um pedido",
+          "url": "https://www.youtube.com/watch?v=_Yiog_7N-Hw"
+        },
+        {
+          "titulo": "Pensamentos",
+          "url": "https://www.youtube.com/watch?v=aexYiq0oXO4"
+        },
+        {
+          "titulo": "Levanta e Anda",
+          "url": "https://www.youtube.com/watch?v=GZgnl5Ocuh8&list=PLV_1b6EEBjxwqemFPXCDEDvT_U1JixULy"
+        },
+        {
+          "titulo": "Nosso Plano",
+          "url": "https://www.youtube.com/watch?v=A2HvRcZlHvg"
+        },
+        {
+          "titulo": "Pipa Voada",
+          "url": "https://www.youtube.com/watch?v=QSdRzZeQ0Xo"
+        },
+        {
+          "titulo": "A Cura ta No Coração",
+          "url": "https://www.youtube.com/watch?v=cGlCalnE8EQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Mpb",
+      "cor": "red",
+      "link_extra": {},
+      "videos": [
+        {
+          "titulo": "Mais uma vez ",
+          "url": "https://www.youtube.com/watch?v=qd_xWGXKqS8&list=PLrnWhxaN_EuetXquWVsGL7WD2eF9dx11I"
+        },
+        {
+          "titulo": "Paciência",
+          "url": "https://www.youtube.com/watch?v=SWm1uvCRfvA"
+        },
+        {
+          "titulo": "Preciso Me Encontrar ",
+          "url": "https://www.youtube.com/watch?v=fUjOfsoBhMY"
+        },
+        {
+          "titulo": "Chão de Giz",
+          "url": "https://www.youtube.com/watch?v=FBMMNBOXins"
+        },
+        {
+          "titulo": "Tempo Perdido",
+          "url": "https://www.youtube.com/watch?v=t4fz9HB9ex8&list=PLrnWhxaN_EuetXquWVsGL7WD2eF9dx11I"
+        },
+        {
+          "titulo": "Metamorfose Ambulante",
+          "url": "https://www.youtube.com/watch?v=7VE6PNwmr9g"
+        },
+        {
+          "titulo": "Tente Outra Vez",
+          "url": "https://www.youtube.com/watch?v=ao4QYGETUYI"
+        }
+      ]
+    },
+    {
+      "titulo": "Eletrônicas",
+      "cor": "#6b5be2",
+      "link_extra": {},
+      "videos": [
+        {
+          "titulo": "Alok - Me & You feat. IRO",
+          "url": "https://www.youtube.com/watch?v=sK2g8NlZuHM"
+        },
+        {
+          "titulo": "Vintage Culture, Bruno Be & Ownboss - Intro Rework",
+          "url": "https://www.youtube.com/watch?v=OXw7VooVm4g"
+        },
+        {
+          "titulo": "Breno Miranda, KVSH e Breno Rocha - Sede Pra Te Ver",
+          "url": "https://www.youtube.com/watch?v=WqlSG4UthNs"
+        },
+        {
+          "titulo": "Vintage Culture, Fancy Inc - In the Dark (Official Video)",
+          "url": "https://www.youtube.com/watch?v=jM7ap2md3HQ"
+        },
+        {
+          "titulo": "Vintage Culture, Adam K - Deep Inside of Me feat. MKLA (Official Video)",
+          "url": "https://www.youtube.com/watch?v=Akblh02CRns"
+        },
+        {
+          "titulo": "Alok & Sevenn - Symphonia (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=ouR15Yp-Ih4"
+        },
+        {
+          "titulo": "Vintage Culture - Hollywood (Official Music Video",
+          "url": "https://www.youtube.com/watch?v=yEKqAaRunx0"
+        }
+      ]
+    }
+  ]
+}

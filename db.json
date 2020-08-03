@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Reggae",
+            "descricao": "Musicas do Estilo de Reggae",
+            "cor": "#F4FA58"
+        },
+        {
+            "id": 2,
+            "nome": "Hip-Hop",
+            "descricao": "Musicas do Estilo de Reggae",
+            "cor": "#00C86F"
+        }
+    ]
+}

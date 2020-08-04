@@ -2,15 +2,305 @@
     "categorias": [
         {
             "id": 1,
-            "nome": "Reggae",
+            "titulo": "Reggae",
             "descricao": "Musicas do Estilo de Reggae",
             "cor": "#F4FA58"
         },
         {
             "id": 2,
-            "nome": "Hip-Hop",
-            "descricao": "Musicas do Estilo de Reggae",
+            "titulo": "Hip-Hop",
+            "descricao": "Musicas do Estilo de Hip-Hop",
             "cor": "#00C86F"
+        },
+        {
+            "id": 3,
+            "titulo": "Rock",
+            "descricao": "Musicas do Estilo de Rock",
+            "cor": "#9cd33b"
+        },
+        {
+            "id": 4,
+            "titulo": "Rap",
+            "descricao": "Musicas do Estilo de Rap",
+            "cor": "orange"
+        },
+        {
+            "id": 5,
+            "titulo": "Mpb",
+            "descricao": "Musicas do Estilo de Mpb",
+            "cor": "red"
+        },
+        {
+            "id": 6,
+            "titulo": "Eletronica",
+            "descricao": "Musicas do Estilo de Eletrônica",
+            "cor": "red"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "Quero ser Feliz também",
+            "url": "https://www.youtube.com/watch?v=i1Nm-MJ313w"
+        },
+        {
+            "id": 2,
+            "categoriaId": 1,
+            "titulo": "Quero ser Feliz também",
+            "url": "https://www.youtube.com/watch?v=i1Nm-MJ313w"
+        },
+        {
+            "id": 3,
+            "categoriaId": 1,
+            "titulo": "Quero ser Feliz também",
+            "url": "https://www.youtube.com/watch?v=i1Nm-MJ313w"
+        },
+        {
+            "id": 4,
+            "categoriaId": 1,
+            "titulo": "Ouvi dizer",
+            "url": "https://www.youtube.com/watch?v=vaXCSYva2FM"
+        },
+        {
+            "id": 5,
+            "categoriaId": 1,
+            "titulo": "Sorri, Sou Rei",
+            "url": "https://www.youtube.com/watch?v=tRmtL8yxcSA"
+        },
+        {
+            "id": 6,
+            "categoriaId": 1,
+            "titulo": "Estar Com Você ",
+            "url": "https://www.youtube.com/watch?v=t0iW__yQHBM"
+        },
+        {
+            "id": 7,
+            "categoriaId": 1,
+            "titulo": "Caminho da luz",
+            "url": "https://www.youtube.com/watch?v=_u8DCZ-U0dY"
+        },
+        {
+            "id": 8,
+            "categoriaId": 1,
+            "titulo": "True Love",
+            "url": "https://www.youtube.com/watch?v=qNHMw6oWXAw&list=PLxlejSoPOkrIaPgYSoqSjrT7BCFcFFFr1"
+        },
+        {
+            "id": 9,
+            "categoriaId": 1,
+            "titulo": "Rest of My life",
+            "url": "https://www.youtube.com/watch?v=X572Mp_r46E&list=PLxlejSoPOkrIaPgYSoqSjrT7BCFcFFFr1&index=3"
+        },
+        {
+            "id": 10,
+            "categoriaId": 2,
+            "titulo": "Mundo de Ilusões/ Bom dia",
+            "url": "https://www.youtube.com/watch?v=4UauTqppXRc&list=PLhaY0uift1gDvyuIxUVYOBhjgSRjGd5Pb"
+        },
+        {
+            "id": 11,
+            "categoriaId": 2,
+            "titulo": "Poesia Acústica - Sobre Nós",
+            "url": "https://www.youtube.com/watch?v=bD6ifecX6rs"
+        },
+        {
+            "id": 12,
+            "categoriaId": 2,
+            "titulo": "Vagabundo Também Ama",
+            "url": "https://www.youtube.com/watch?v=eBaZTtP_qek"
+        },
+        {
+            "id": 13,
+            "categoriaId": 2,
+            "titulo": "Leis Próprias ",
+            "url": "https://www.youtube.com/watch?v=EfEgo9LO4bU&list=PLhaY0uift1gDvyuIxUVYOBhjgSRjGd5Pb&index=17"
+        },
+        {
+            "id": 14,
+            "categoriaId": 2,
+            "titulo": "Capricorniana",
+            "url": "https://www.youtube.com/watch?v=DjNqxTODmuc&list=PLE5rzp23Nm77rbz7i3KLxNfkPI4kaWoPP&index=3"
+        },
+        {
+            "id": 15,
+            "categoriaId": 2,
+            "titulo": "Meu Jardim / Obrigado Vida",
+            "url": "https://www.youtube.com/watch?v=ivrTrbZE1Ew"
+        },
+        {
+            "id": 15,
+            "categoriaId": 2,
+            "titulo": "Linda Louca e Mimada",
+            "url": "https://www.youtube.com/watch?v=7OTSQ7plENk"
+        },
+        {
+            "id": 16,
+            "categoriaId": 3,
+            "titulo": "Good Times Bad times",
+            "url": "https://www.youtube.com/watch?v=TA9Rec1qAFQ&list=PLWRhxvQASiJ5OO3NTHiCIB5izkkEf9j_t"
+        },
+        {
+            "id": 17,
+            "categoriaId": 3,
+            "titulo": "Californication?",
+            "url": "https://www.youtube.com/watch?v=YlUKcNNmywk&list=PLsK0gCOg4x1ec75vdcKTF2YHX7lZGvizb"
+        },
+        {
+            "id": 18,
+            "categoriaId": 3,
+            "titulo": "Black",
+            "url": "https://www.youtube.com/watch?v=4q9UafsiQ6k"
+        },
+        {
+            "id": 19,
+            "categoriaId": 3,
+            "titulo": "Born On the Bayou",
+            "url": "https://www.youtube.com/watch?v=wIjUY3pjN8E"
+        },
+        {
+            "id": 20,
+            "categoriaId": 3,
+            "titulo": "Have You Ever Seen The Rain",
+            "url": "https://www.youtube.com/watch?v=g4flAZEgtjs&list=PLf6-wYiizn9MokTv7naPkULw-skStjmZt"
+        },
+        {
+            "id": 21,
+            "categoriaId": 3,
+            "titulo": "Basket Case",
+            "url": "https://www.youtube.com/watch?v=NUTGr5t3MoY"
+        },
+        {
+            "id": 22,
+            "categoriaId": 3,
+            "titulo": "Oasis - Wonderwall",
+            "url": "https://www.youtube.com/watch?v=6hzrDeceEKc&list=PLMpM3Z0118S6eV5ZBJpwDT-KCNBwm99c8"
+        },
+        {
+            "id": 23,
+            "categoriaId": 4,
+            "titulo": "That's My Way",
+            "url": "https://www.youtube.com/watch?v=ysfm_adxRrI"
+        },
+        {
+            "id": 24,
+            "categoriaId": 4,
+            "titulo": "Fiz um pedido",
+            "url": "https://www.youtube.com/watch?v=_Yiog_7N-Hw"
+        },
+        {
+            "id": 25,
+            "categoriaId": 4,
+            "titulo": "Pensamentos",
+            "url": "https://www.youtube.com/watch?v=aexYiq0oXO4"
+        },
+        {
+            "id": 26,
+            "categoriaId": 4,
+            "titulo": "Levanta e Anda",
+            "url": "https://www.youtube.com/watch?v=GZgnl5Ocuh8&list=PLV_1b6EEBjxwqemFPXCDEDvT_U1JixULy"
+        },
+        {
+            "id": 27,
+            "categoriaId": 4,
+            "titulo": "Nosso Plano",
+            "url": "https://www.youtube.com/watch?v=A2HvRcZlHvg"
+        },
+        {
+            "id": 28,
+            "categoriaId": 4,
+            "titulo": "Pipa Voada",
+            "url": "https://www.youtube.com/watch?v=QSdRzZeQ0Xo"
+        },
+        {
+            "id": 29,
+            "categoriaId": 4,
+            "titulo": "A Cura ta No Coração",
+            "url": "https://www.youtube.com/watch?v=cGlCalnE8EQ"
+        },
+        {
+            "id": 30,
+            "categoriaId": 5,
+            "titulo": "Mais uma vez ",
+            "url": "https://www.youtube.com/watch?v=qd_xWGXKqS8&list=PLrnWhxaN_EuetXquWVsGL7WD2eF9dx11I"
+        },
+        {
+            "id": 31,
+            "categoriaId": 5,
+            "titulo": "Paciência",
+            "url": "https://www.youtube.com/watch?v=SWm1uvCRfvA"
+        },
+        {
+            "id": 32,
+            "categoriaId": 5,
+            "titulo": "Preciso Me Encontrar ",
+            "url": "https://www.youtube.com/watch?v=fUjOfsoBhMY"
+        },
+        {
+            "id": 33,
+            "categoriaId": 5,
+            "titulo": "Chão de Giz",
+            "url": "https://www.youtube.com/watch?v=FBMMNBOXins"
+        },
+        {
+            "id": 34,
+            "categoriaId": 5,
+            "titulo": "Tempo Perdido",
+            "url": "https://www.youtube.com/watch?v=t4fz9HB9ex8&list=PLrnWhxaN_EuetXquWVsGL7WD2eF9dx11I"
+        },
+        {
+            "id": 35,
+            "categoriaId": 5,
+            "titulo": "Metamorfose Ambulante",
+            "url": "https://www.youtube.com/watch?v=7VE6PNwmr9g"
+        },
+        {
+            "id": 36,
+            "categoriaId": 5,
+            "titulo": "Tente Outra Vez",
+            "url": "https://www.youtube.com/watch?v=ao4QYGETUYI"
+        },
+        {
+            "id": 37,
+            "categoriaId": 6,
+            "titulo": "Alok - Me & You feat. IRO",
+            "url": "https://www.youtube.com/watch?v=sK2g8NlZuHM"
+        },
+        {
+            "id": 38,
+            "categoriaId": 6,
+            "titulo": "Vintage Culture, Bruno Be & Ownboss - Intro Rework",
+            "url": "https://www.youtube.com/watch?v=OXw7VooVm4g"
+        },
+        {
+            "id": 39,
+            "categoriaId": 6,
+            "titulo": "Breno Miranda, KVSH e Breno Rocha - Sede Pra Te Ver",
+            "url": "https://www.youtube.com/watch?v=WqlSG4UthNs"
+        },
+        {
+            "id": 40,
+            "categoriaId": 6,
+            "titulo": "Vintage Culture, Fancy Inc - In the Dark (Official Video)",
+            "url": "https://www.youtube.com/watch?v=jM7ap2md3HQ"
+        },
+        {
+            "id": 41,
+            "categoriaId": 6,
+            "titulo": "Vintage Culture, Adam K - Deep Inside of Me feat. MKLA (Official Video)",
+            "url": "https://www.youtube.com/watch?v=Akblh02CRns"
+        },
+        {
+            "id": 42,
+            "categoriaId": 6,
+            "titulo": "Alok & Sevenn - Symphonia (Official Music Video)",
+            "url": "https://www.youtube.com/watch?v=ouR15Yp-Ih4"
+        },
+        {
+            "id": 43,
+            "categoriaId": 6,
+            "titulo": "Vintage Culture - Hollywood (Official Music Video",
+            "url": "https://www.youtube.com/watch?v=yEKqAaRunx0"
         }
     ]
 }

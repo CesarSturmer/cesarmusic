@@ -1,6 +1,6 @@
 
 
-![alurinha](https://imgur.com/tsyX0Xw.png)
+![alurinha](https://imgur.com/w052mez.png)
 
 
 
